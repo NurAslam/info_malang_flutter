@@ -1,7 +1,6 @@
+Home![HomePage](https://user-images.githubusercontent.com/56910391/113904213-68c58b80-9804-11eb-828f-214c9d02f257.PNG)
 
-![HomePage](https://user-images.githubusercontent.com/56910391/113904213-68c58b80-9804-11eb-828f-214c9d02f257.PNG)
-
-![detail](https://user-images.githubusercontent.com/56910391/113904227-6d8a3f80-9804-11eb-9bae-50ce89ddcc96.PNG)
+Detail ![detail](https://user-images.githubusercontent.com/56910391/113904227-6d8a3f80-9804-11eb-9bae-50ce89ddcc96.PNG)
 
 # beautiful_malang
 
